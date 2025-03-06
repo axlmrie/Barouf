@@ -14,3 +14,5 @@ print(sys.getrefcount(a))
 
 a.b = b
 b.a = a
+
+print('test de conflit')
