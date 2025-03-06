@@ -7,6 +7,8 @@ b = a
 print(sys.getrefcount(a))
 
 print(sys.getrefcount(a))
+print(sys.getrefcount(a))
+print(sys.getrefcount(a))
 
 
 a.b = b
